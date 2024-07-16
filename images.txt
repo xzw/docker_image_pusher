@@ -5,5 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 nacos/nacos-server:latest
-bitnami/mysql:bitnami/mysql
+bitnami/mysql:8.0.28-debian-10-r52
 bitnami/redis:7.2.3-debian-11-r0
