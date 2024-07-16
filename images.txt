@@ -7,4 +7,5 @@
 #nacos/nacos-server:latest
 #bitnami/mysql:8.0.28-debian-10-r52
 #bitnami/redis:7.2.3-debian-11-r0
-rancher/rancher:v2.7.9
+#rancher/rancher:v2.7.9
+bitnami/rabbitmq:3.10.8-debian-11-r0
