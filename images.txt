@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #nacos/nacos-server:latest
-#bitnami/mysql:8.0.28-debian-10-r52
+bitnami/mysql:8.0.31-debian-10-r52
 #bitnami/redis:7.2.3-debian-11-r0
 #rancher/rancher:v2.8.4
 #bitnami/rabbitmq:3.10.8-debian-11-r0
@@ -20,4 +20,4 @@
 #pantsel/konga
 #bitnami/bitnami-shell:10-debian-10-r378
 #bitnami/minio:2024.5.28-debian-12-r0
-bitnami/minio-client:2024.5.24-debian-12-r0
+#bitnami/minio-client:2024.5.24-debian-12-r0
