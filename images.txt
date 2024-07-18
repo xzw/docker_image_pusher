@@ -22,5 +22,5 @@
 #bitnami/minio:2024.5.28-debian-12-r0
 #bitnami/minio-client:2024.5.24-debian-12-r0
 #rancher/fleet:v0.9.6
-#rancher/fleet-agent:v0.8.0
-rancher/rancher-webhook:v0.4.7
+rancher/fleet-agent:v0.9.6
+#rancher/rancher-webhook:v0.4.7
