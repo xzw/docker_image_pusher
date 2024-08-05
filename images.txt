@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-nacos/nacos-server:v2.3.0
+#nacos/nacos-server:v2.3.0
 #bitnami/mysql:8.0.31-debian-11-r36
 #bitnami/redis:7.2.3-debian-11-r0
 #rancher/rancher:v2.8.4
@@ -24,3 +24,4 @@ nacos/nacos-server:v2.3.0
 #rancher/fleet:v0.9.6
 #rancher/fleet-agent:v0.9.6
 #rancher/rancher-webhook:v0.4.7
+gitlab/gitlab-runner
