@@ -25,4 +25,5 @@
 #rancher/fleet-agent:v0.9.6
 #rancher/rancher-webhook:v0.4.7
 #gitlab/gitlab-runner
-registry.gitlab.com/gitlab-org/cluster-integration/helm-install-image/releases/2.16.9-kube-1.13.12
+maven:3.9.8-eclipse-temurin-22-alpine
+bitnami/kubectl:latest
