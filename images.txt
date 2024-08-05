@@ -25,5 +25,6 @@
 #rancher/fleet-agent:v0.9.6
 #rancher/rancher-webhook:v0.4.7
 #gitlab/gitlab-runner
-maven:3.9.8-eclipse-temurin-22-alpine
-bitnami/kubectl:latest
+#maven:3.9.8-eclipse-temurin-22-alpine
+#bitnami/kubectl:latest
+eclipse-temurin:17-jre
