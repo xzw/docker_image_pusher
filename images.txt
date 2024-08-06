@@ -28,4 +28,5 @@
 #maven:3.9.8-eclipse-temurin-22-alpine
 #bitnami/kubectl:latest
 #eclipse-temurin:17-jre
-docker:27
+#docker:27
+node:20.16.0-alpine
