@@ -27,4 +27,5 @@
 #gitlab/gitlab-runner
 #maven:3.9.8-eclipse-temurin-22-alpine
 #bitnami/kubectl:latest
-eclipse-temurin:17-jre
+#eclipse-temurin:17-jre
+docker:27
