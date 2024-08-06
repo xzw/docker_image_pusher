@@ -30,4 +30,5 @@
 #eclipse-temurin:17-jre
 #docker:27
 #node:20.16.0-alpine
-docker:27-dind
+#docker:27-dind
+docker:dind-rootless
