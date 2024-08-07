@@ -32,4 +32,5 @@
 #node:20.16.0-alpine
 #docker:27-dind
 #docker:dind-rootless
-node:alpine3.20
+#node:alpine3.20
+rancher/kubectl:v1.30.3-amd64
