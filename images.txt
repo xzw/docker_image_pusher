@@ -26,11 +26,10 @@
 #rancher/rancher-webhook:v0.4.7
 #gitlab/gitlab-runner
 #maven:3.9.8-eclipse-temurin-22-alpine
-#bitnami/kubectl:latest
 #eclipse-temurin:17-jre
 #docker:27
 #node:20.16.0-alpine
 #docker:27-dind
 #docker:dind-rootless
 #node:alpine3.20
-rancher/kubectl:v1.30.3-amd64
+bitnami/kubectl:1.30.3
