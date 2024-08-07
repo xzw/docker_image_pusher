@@ -32,4 +32,4 @@
 #docker:27-dind
 #docker:dind-rootless
 #node:alpine3.20
-bitnami/kubectl:1.20
+registry.cn-hangzhou.aliyuncs.com/sanchar/kubectl:v1.20.1
