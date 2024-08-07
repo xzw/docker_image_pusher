@@ -31,4 +31,5 @@
 #docker:27
 #node:20.16.0-alpine
 #docker:27-dind
-docker:dind-rootless
+#docker:dind-rootless
+node:alpine3.20
