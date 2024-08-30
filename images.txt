@@ -33,5 +33,6 @@
 #docker:dind-rootless
 #node:alpine3.20
 #registry.cn-hangzhou.aliyuncs.com/sanchar/kubectl:v1.20.1
-golang:alpine
-alpine:latest
+#golang:alpine
+#alpine:latest
+guergeiro/pnpm:20-8-alpine
