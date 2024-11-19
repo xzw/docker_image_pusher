@@ -40,4 +40,4 @@
 #livekit/egress:latest
 #livekit/livekit-server:master
 #shaoguo/faster_liveportrait:v3
-bitnami/os-shell
+bitnami/os-shell:11-debian-11-r90
