@@ -39,4 +39,5 @@
 #livekit/ingress:latest
 #livekit/egress:latest
 #livekit/livekit-server:master
-shaoguo/faster_liveportrait:v3
+#shaoguo/faster_liveportrait:v3
+bitnami/os-shell
