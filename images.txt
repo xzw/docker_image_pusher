@@ -41,4 +41,4 @@
 #shaoguo/faster_liveportrait:v3
 #bitnami/os-shell:11-debian-11-r90
 #justsky/port-forward
-xuxueli/xxl-job-admin:2.5.0
+xuxueli/xxl-job-admin:2.4.2
