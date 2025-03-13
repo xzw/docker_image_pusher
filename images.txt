@@ -42,4 +42,5 @@
 #bitnami/os-shell:11-debian-11-r90
 #justsky/port-forward
 #xuxueli/xxl-job-admin:2.4.2
-nacos/nacos-peer-finder-plugin:latest
+#nacos/nacos-peer-finder-plugin:latest
+timescale/timescaledb-ha:pg14.6-ts2.9.1-p1
