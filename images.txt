@@ -44,4 +44,5 @@
 #xuxueli/xxl-job-admin:2.4.2
 #nacos/nacos-peer-finder-plugin:latest
 #timescale/timescaledb-ha:pg14.11-ts2.14.2-all
-xzwilj/mochi-mqtt
+#xzwilj/mochi-mqtt
+golang:alpine
