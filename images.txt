@@ -46,4 +46,5 @@
 #timescale/timescaledb-ha:pg14.11-ts2.14.2-all
 #xzwilj/mochi-mqtt
 #golang:alpine
-eclipse-temurin:8-jre
+#eclipse-temurin:8-jre
+bladex/sentinel-dashboard:latest
