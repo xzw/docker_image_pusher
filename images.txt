@@ -25,7 +25,7 @@
 #rancher/rancher-webhook:v0.4.7
 #gitlab/gitlab-runner
 #maven:3.9.8-eclipse-temurin-22-alpine
-#eclipse-temurin:17-jre
+eclipse-temurin:21-jre
 #docker:27
 #node:20.16.0-alpine
 #docker:27-dind
@@ -48,4 +48,4 @@
 #golang:alpine
 #eclipse-temurin:8-jre
 #bladex/sentinel-dashboard:latest
-edel/mysqlclient
+#edel/mysqlclient
