@@ -49,4 +49,4 @@
 #eclipse-temurin:8-jre
 #bladex/sentinel-dashboard:latest
 #edel/mysqlclient
-hanfangyuan/dify-on-wechat:latest
+#hanfangyuan/dify-on-wechat:latest
