@@ -24,7 +24,7 @@
 #rancher/fleet-agent:v0.9.6
 #rancher/rancher-webhook:v0.4.7
 #gitlab/gitlab-runner
-maven:3.9.8-eclipse-temurin-21-alpine
+#maven:3.9.8-eclipse-temurin-21-alpine
 #eclipse-temurin:21-jre
 #docker:27
 #node:20.16.0-alpine
@@ -49,3 +49,4 @@ maven:3.9.8-eclipse-temurin-21-alpine
 #eclipse-temurin:8-jre
 #bladex/sentinel-dashboard:latest
 #edel/mysqlclient
+hanfangyuan/dify-on-wechat:latest
