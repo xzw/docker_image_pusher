@@ -50,4 +50,5 @@
 #bladex/sentinel-dashboard:latest
 #edel/mysqlclient
 #hanfangyuan/dify-on-wechat:latest
-wuhuan123/gewechat:laster
+#wuhuan123/gewechat:laster
+nginx:mainline-alpine3.22
