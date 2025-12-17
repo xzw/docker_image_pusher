@@ -52,4 +52,5 @@
 #hanfangyuan/dify-on-wechat:latest
 #wuhuan123/gewechat:laster
 #nginx:mainline-alpine3.22
-langgenius/dify-api:1.11.1
+#langgenius/dify-api:1.11.1
+bitnami/mongodb:latest
