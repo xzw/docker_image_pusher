@@ -54,4 +54,5 @@
 #nginx:mainline-alpine3.22
 #langgenius/dify-api:1.11.1
 #bitnami/mongodb:latest
-chromedp/headless-shell:147.0.7719.3
+#chromedp/headless-shell:147.0.7719.3
+frankescobar/allure-docker-service:latest
