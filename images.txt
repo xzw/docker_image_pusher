@@ -34,7 +34,7 @@
 #registry.cn-hangzhou.aliyuncs.com/sanchar/kubectl:v1.20.1
 #golang:alpine
 #alpine:latest
-#guergeiro/pnpm:20-8-alpine
+guergeiro/pnpm:26-10-alpine
 #livekit/ingress:latest
 #livekit/egress:latest
 #livekit/livekit-server:master
@@ -55,4 +55,4 @@
 #langgenius/dify-api:1.11.1
 #bitnami/mongodb:latest
 #chromedp/headless-shell:147.0.7719.3
-frankescobar/allure-docker-service:latest
+#frankescobar/allure-docker-service:latest
