@@ -57,4 +57,5 @@
 #bitnami/mongodb:latest
 #chromedp/headless-shell:147.0.7719.3
 #frankescobar/allure-docker-service:latest
-starrocks/be-ubuntu:4.1-latest
+#starrocks/be-ubuntu:4.1-latest
+starrocks/fe-ubuntu:4.1-latest
