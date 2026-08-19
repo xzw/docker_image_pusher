@@ -7,7 +7,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #nacos/nacos-server:v3.1.1
 #bitnamilegacy/mysql:8.4.4-debian-12-r7
-bitnami/redis:7.4.2-debian-12-r4
+#bitnami/redis:7.4.2-debian-12-r4
 #rancher/rancher:v2.8.4
 #bitnami/rabbitmq:4.0.3-debian-12-r0
 #bitnami/mysqld-exporter:0.14.0-debian-10-r23
@@ -59,3 +59,4 @@ bitnami/redis:7.4.2-debian-12-r4
 #frankescobar/allure-docker-service:latest
 #starrocks/be-ubuntu:4.1-latest
 #starrocks/fe-ubuntu:4.1-latest
+kokuwaio/buildctl:latest
