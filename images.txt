@@ -61,3 +61,4 @@ bitnami/redis:latest
 #starrocks/fe-ubuntu:4.1-latest
 #kokuwaio/buildctl:latest
 bitnami/redis-sentinel:latest
+bitnami/kubectl:latest
