@@ -62,4 +62,4 @@
 #kokuwaio/buildctl:latest
 #bitnami/redis-sentinel:latest
 #bitnami/kubectl:latest
-gcr.io/cadvisor/cadvisor:v0.60.5
+gcr.io/cadvisor/cadvisor:0.60.5
